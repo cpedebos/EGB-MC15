@@ -7,12 +7,12 @@ This repository contains the materials for the Molecular Dynamics Simulations: T
 ## Day 1 – Introduction to Molecular Dynamics
 Historical background of the technique, fundamental concepts, and key applications in biochemistry and structural biology. Discussion of the critical steps involved in a molecular dynamics (MD) simulation: system preparation, parametrization, minimization, equilibration, production run, and analysis.
 
-**Slides:** [Slides](https://github.com/cpedebos/EGB-MC15/blob/1b747c522139f03bffd13fe59b500409ea32cd81/EGB_MC15_Aula_1_Introduction_to_MD.pdf)  - `Introduction to Molecular Dynamics`
+**Slides:** [Slides](https://github.com/cpedebos/EGB-MC15/raw/main/EGB_MC15_Aula_1_Introduction_to_MD.pdf)  - `Introduction to Molecular Dynamics`
 
 ### Practical session: 
 Execution of molecular dynamics simulations on two model systems, followed by analysis of structural and dynamic properties.
 
-**Notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/EGB2025-MC14/blob/main/Regular_Docking_EGB.ipynb)  - `Classical Molecular Dynamics simulations examples`
+**Notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cpedebos/EGB-MC15/blob/main/CHARMM_GUI_EGB2025.ipynb)  - `Classical Molecular Dynamics simulations examples`
 
 ## Day 2 – Protein–Ligand Systems
 Exploration of MD applications in studying protein–ligand interactions. Methods for evaluating stability and binding affinity, molecular docking, and post-simulation analyses.
