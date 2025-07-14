@@ -12,7 +12,7 @@ Historical background of the technique, fundamental concepts, and key applicatio
 ### Practical session: 
 Execution of molecular dynamics simulations on two model systems, followed by analysis of structural and dynamic properties.
 
-2) **Notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/EGB2025-MC14/blob/main/Regular_Docking_EGB.ipynb)  - `Classical Molecular Dynamics simulations examples`
+**Notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/EGB2025-MC14/blob/main/Regular_Docking_EGB.ipynb)  - `Classical Molecular Dynamics simulations examples`
 
 ## Day 2 – Protein–Ligand Systems
 Exploration of MD applications in studying protein–ligand interactions. Methods for evaluating stability and binding affinity, molecular docking, and post-simulation analyses.
