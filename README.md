@@ -20,8 +20,8 @@ Exploration of MD applications in studying protein–ligand interactions. Method
 ### Practical session: 
 Performing molecular docking followed by MD simulation of a previously modeled protein–ligand complex.
 
+**Notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/EGB2025-MC14/blob/main/Regular_Docking_EGB.ipynb)  - `Regular Docking with Vina Scoring Function`
 **Notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cpedebos/EGB-MC15/blob/main/Protein_ligand_EGB.ipynb)  - `Molecular Dynamics of Protein-Ligand Systems`
-
 
 ## Day 3 – Coarse-Grained Molecular Dynamics and Membrane Proteins
 Introduction to coarse-grained (CG) models, including their advantages and limitations. Structural and dynamic features of membrane proteins and their biological significance.
