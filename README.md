@@ -7,7 +7,7 @@ This repository contains the materials for the Molecular Dynamics Simulations: T
 ## Day 1 – Introduction to Molecular Dynamics
 Historical background of the technique, fundamental concepts, and key applications in biochemistry and structural biology. Discussion of the critical steps involved in a molecular dynamics (MD) simulation: system preparation, parametrization, minimization, equilibration, production run, and analysis.
 
-**Slides:** [Slides](https://github.com/cpedebos/EGB2025-MC15/raw/main/EGB%20MC14%20-%20Aula%201.pdf)  - `Introduction to Molecular Dynamics`
+**Slides:** [Slides](https://github.com/cpedebos/EGB-MC15/blob/1b747c522139f03bffd13fe59b500409ea32cd81/EGB_MC15_Aula_1_Introduction_to_MD.pdf)  - `Introduction to Molecular Dynamics`
 
 ### Practical session: 
 Execution of molecular dynamics simulations on two model systems, followed by analysis of structural and dynamic properties.
