@@ -1,6 +1,6 @@
 # EGB2025-MC15
 
-# EGB 2025 - MC15: Molecular Dynamics Simulations: Theory and Applications
+# Molecular Dynamics Simulations: Theory and Applications
 
 This repository contains the materials for the Molecular Dynamics Simulations: Theory and Applications mini-course.
 
