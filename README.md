@@ -17,6 +17,8 @@ Execution of molecular dynamics simulations on two model systems, followed by an
 ## Day 2 – Protein–Ligand Systems
 Exploration of MD applications in studying protein–ligand interactions. Methods for evaluating stability and binding affinity, molecular docking, and post-simulation analyses.
 
+**Slides:** [Slides](https://github.com/cpedebos/EGB-MC15/raw/main/EGB_MC15_Aula2.pdf)  - `Protein-Ligand Systems`
+
 ### Practical session: 
 Performing molecular docking followed by MD simulation of a previously modeled protein–ligand complex.
 
