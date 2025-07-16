@@ -29,8 +29,14 @@ Performing molecular docking followed by MD simulation of a previously modeled p
 ## Day 3 – Coarse-Grained Molecular Dynamics and Membrane Proteins
 Introduction to coarse-grained (CG) models, including their advantages and limitations. Structural and dynamic features of membrane proteins and their biological significance.
 
+**Slides:** [Slides](https://github.com/cpedebos/EGB-MC15/blob/main/EGB%20MC15%20-%20Aula%203%20-%20CG%20and%20Membrane%20Proteins.pdf)  - `Membrane Protein and CG Simulations`
+
 ### Practical session: 
 Execution of CG simulations and membrane protein simulations, along with analysis of the resulting dynamics.
+
+**Notebook 1:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/cpedebos/EGB-MC15/blob/main/Protein_Membranes_EGB.ipynb)  - `Membrane Protein MD simulations`
+
+**Notebook 2:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/cpedebos/EGB-MC15/blob/main/Martini%2Bcg2all.ipynb)  - `CG systems MD simulations`
 
 ## Day 4 – Alternatives to Classical Molecular Dynamics for Conformational Sampling
 Discussion of the limitations of classical MD and presentation of alternative methods for generating structural ensembles, such as AlphaFold subsampling and BioEmu-based approaches. Potential applications and limitations of these strategies.
