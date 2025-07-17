@@ -48,7 +48,7 @@ Generation of conformational ensembles for different proteins using non-MD-based
 
 **Notebook 1:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/cpedebos/EGB-MC15/blob/main/AF2_subsampling_EGB.ipynb)  - `Prediction of protein conformational distributions with subsampled AlphaFold2.`
 
-**Notebook 2:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/cpedebos/EGB-MC15/blob/main/BioEmu_EGB.ipynb)  - `Biomolecular Emulator, a model that samples from the approximated equilibrium distribution of structures for a protein monomer.`
+**Notebook 2:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/pablo-arantes/EGB2025-MC14/blob/main/BioEmu_EGB.ipynb)  - `Biomolecular Emulator, a model that samples from the approximated equilibrium distribution of structures for a protein monomer.`
 
 ## Day 5 – Enhanced Sampling Methods
 Analysis of the challenges in conformational sampling using classical MD. Introduction to advanced methods such as Steered Molecular Dynamics (SMD), Metadynamics, and others. Discussion of practical applications and implications for result interpretation.
