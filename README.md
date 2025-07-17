@@ -41,8 +41,14 @@ Execution of CG simulations and membrane protein simulations, along with analysi
 ## Day 4 – Alternatives to Classical Molecular Dynamics for Conformational Sampling
 Discussion of the limitations of classical MD and presentation of alternative methods for generating structural ensembles, such as AlphaFold subsampling and BioEmu-based approaches. Potential applications and limitations of these strategies.
 
+**Slides:** [Slides](https://github.com/cpedebos/EGB-MC15/raw/main/EGB_MC15_Aula4.pdf)  - `Deep Learning Approaches to generate an ensemble`
+
 ### Practical session: 
 Generation of conformational ensembles for different proteins using non-MD-based sampling approaches.
+
+**Notebook 1:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/cpedebos/EGB-MC15/blob/main/AF2_subsampling_EGB.ipynb)  - `Prediction of protein conformational distributions with subsampled AlphaFold2.`
+
+**Notebook 2:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/cpedebos/EGB-MC15/blob/main/BioEmu_EGB.ipynb)  - `Biomolecular Emulator, a model that samples from the approximated equilibrium distribution of structures for a protein monomer.`
 
 ## Day 5 – Enhanced Sampling Methods
 Analysis of the challenges in conformational sampling using classical MD. Introduction to advanced methods such as Steered Molecular Dynamics (SMD), Metadynamics, and others. Discussion of practical applications and implications for result interpretation.
