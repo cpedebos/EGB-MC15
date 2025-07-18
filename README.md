@@ -53,5 +53,9 @@ Generation of conformational ensembles for different proteins using non-MD-based
 ## Day 5 – Enhanced Sampling Methods
 Analysis of the challenges in conformational sampling using classical MD. Introduction to advanced methods such as Steered Molecular Dynamics (SMD), Metadynamics, and others. Discussion of practical applications and implications for result interpretation.
 
+**Slides** [Slides](https://github.com/cpedebos/EGB-MC15/blob/main/EGB_MC15_Aula_5_Enhanced_Sampling.pdf)  - `Enhanced Sampling Methods`
+
 ## Practical session: 
 Application of Steered Molecular Dynamics to induce and analyze conformational changes in a previously studied protein–ligand system.
+
+**Notebook 1:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/cpedebos/EGB-MC15/blob/main/SteeredMD_EGB_Aula5.ipynb)  - `Case study - Steered MD`
